@@ -1,0 +1,12 @@
+12 Zlocin_i_kazna false
+13 Rat_i_mir true
+14 Stepski_vuk true
+15 Alhemicar false
+16 11_minuta true
+17 Ana_Karenjina false
+18 Taras_Buljba false
+19 Braca_Karamazov false
+20 Mali_Princ true
+21 Seobe false
+22 Koreni true
+23 Macak_Toso true
